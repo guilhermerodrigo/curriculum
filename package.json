@@ -2,6 +2,7 @@
     "title": "Resume",
     "name": "startbootstrap-resume",
     "version": "5.0.8",
+    "homepage": "https://guilhermerodrigo.github.io/curriculum/",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
@@ -14,7 +15,6 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/resume",
     "bugs": {
         "url": "https://github.com/BlackrockDigital/startbootstrap-resume/issues",
         "email": "feedback@startbootstrap.com"
